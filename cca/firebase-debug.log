@@ -1,0 +1,21 @@
+[debug] [2024-09-17T20:10:06.483Z] ----------------------------------------------------------------------
+[debug] [2024-09-17T20:10:06.485Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\sahil\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2024-09-17T20:10:06.486Z] CLI Version:   13.17.0
+[debug] [2024-09-17T20:10:06.486Z] Platform:      win32
+[debug] [2024-09-17T20:10:06.486Z] Node Version:  v20.15.1
+[debug] [2024-09-17T20:10:06.486Z] Time:          Wed Sep 18 2024 01:40:06 GMT+0530 (India Standard Time)
+[debug] [2024-09-17T20:10:06.486Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2024-09-17T20:10:06.492Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2024-09-17T20:10:06.492Z] > authorizing via signed-in user (chambyal20082004@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  C:\Users\sahil\OneDrive\Documents\GitHub\CropCareAI\cca
+
